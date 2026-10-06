@@ -178,9 +178,6 @@ const zain: Developer = {
 <!-- Streak Stats -->
 <img width="70%" src="https://streak-stats.demolab.com/?user=heyzainali&theme=tokyonight&hide_border=true" />
 
-<!-- Contribution Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=heyzainali&theme=tokyo-night&hide_border=true&area=true" />
-
 </div>
 
 ---
