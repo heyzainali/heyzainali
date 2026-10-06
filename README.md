@@ -59,6 +59,7 @@ const zain: Developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -117,7 +118,7 @@ const zain: Developer = {
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /><br/>
 <b>Backend Development</b><br/>
-<sub>Laravel, Node.js, REST APIs, Microservices, Queue Systems</sub>
+<sub>Laravel, Node.js, Python, REST APIs, Microservices, Queue Systems</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Frontend-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /><br/>
