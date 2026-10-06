@@ -168,17 +168,17 @@ const zain: Developer = {
 <div align="center">
 
 <!-- Profile Summary Cards - More Reliable -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zain534102&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zain534102&theme=tokyonight&utcOffset=0" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyzainali&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyzainali&theme=tokyonight&utcOffset=0" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zain534102&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zain534102&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyzainali&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heyzainali&theme=tokyonight" />
 
 <!-- Streak Stats -->
-<img width="70%" src="https://streak-stats.demolab.com/?user=zain534102&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=heyzainali&theme=tokyonight&hide_border=true" />
 
 <!-- Contribution Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zain534102&theme=tokyo-night&hide_border=true&area=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=heyzainali&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
