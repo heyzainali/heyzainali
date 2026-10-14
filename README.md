@@ -11,7 +11,7 @@
   <a href="https://medium.com/@zainali_51768"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=zain534102&label=Profile%20views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+<img src="https://hits.sh/github.com/heyzainali.svg?style=for-the-badge&label=Profile%20views&color=%233b82f6&extraCount=208" alt="Profile Views" />
 
 </div>
 
